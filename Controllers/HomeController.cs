@@ -19,13 +19,25 @@ namespace MyFirstWebApplication.Controllers
             return View();
         }
 
-        [Route("About")]
-        public IActionResult About()
+        [Route("AboutUs")]
+        public IActionResult AboutUs()
         {
             return View();
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [Route("Contact")]
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+        [Route("Pricing")]
+        public IActionResult Pricing()
         {
             return View();
         }
