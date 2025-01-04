@@ -2,6 +2,10 @@ G:\Projects\MyFirstWebApplication\bin\Debug\net6.0\appsettings.Development.json
 G:\Projects\MyFirstWebApplication\bin\Debug\net6.0\appsettings.json
 G:\Projects\MyFirstWebApplication\bin\Debug\net6.0\MyFirstWebApplication.staticwebassets.runtime.json
 G:\Projects\MyFirstWebApplication\bin\Debug\net6.0\MyFirstWebApplication.exe
+G:\Projects\MyFirstWebApplication\bin\Debug\net6.0\MyFirstWebApplication.deps.json
+G:\Projects\MyFirstWebApplication\bin\Debug\net6.0\MyFirstWebApplication.runtimeconfig.json
+G:\Projects\MyFirstWebApplication\bin\Debug\net6.0\MyFirstWebApplication.dll
+G:\Projects\MyFirstWebApplication\bin\Debug\net6.0\MyFirstWebApplication.pdb
 G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\MyFirstWebApplication.csproj.AssemblyReference.cache
 G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\MyFirstWebApplication.GeneratedMSBuildEditorConfig.editorconfig
 G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\MyFirstWebApplication.AssemblyInfoInputs.cache
@@ -23,3 +27,5 @@ G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\scopedcss\projectbundle\MyFir
 G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\MyFirstWebApplication.dll
 G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\refint\MyFirstWebApplication.dll
 G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\MyFirstWebApplication.pdb
+G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\MyFirstWebApplication.genruntimeconfig.cache
+G:\Projects\MyFirstWebApplication\obj\Debug\net6.0\ref\MyFirstWebApplication.dll

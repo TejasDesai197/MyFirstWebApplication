@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MyFirstWebApplication.bundle.scp.css"
     },
     {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\css\\custome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custome.css"
+    },
+    {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
@@ -75,10 +79,6 @@
     {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
-    },
-    {
-      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\logo.png.png",
-      "PackagePath": "staticwebassets\\assets\\img\\logo.png.png"
     },
     {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\services.jpg",
