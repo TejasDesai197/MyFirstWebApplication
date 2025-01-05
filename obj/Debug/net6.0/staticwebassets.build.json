@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kxnAu+B2b4X/gVzVBG4zmKm9ximEZyLyi3xVs96QGng=",
+  "Hash": "nXrvKRpl6Fuplqve80BkRH1kZ5GU+95SL8hOH3XIqjM=",
   "Source": "MyFirstWebApplication",
   "BasePath": "_content/MyFirstWebApplication",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
     },
     {
+      "Identity": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\about-company.jpg",
+      "SourceId": "MyFirstWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApplication",
+      "RelativePath": "assets/img/about-company.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\about-company.jpg"
+    },
+    {
       "Identity": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\about-company-1.jpg",
       "SourceId": "MyFirstWebApplication",
       "SourceType": "Discovered",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Identity": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\background-banner.jpg",
+      "SourceId": "MyFirstWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApplication",
+      "RelativePath": "assets/img/background-banner.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\background-banner.jpg"
     },
     {
       "Identity": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\clients\\client-1.png",

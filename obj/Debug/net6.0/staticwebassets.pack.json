@@ -25,8 +25,16 @@
       "PackagePath": "staticwebassets\\assets\\img\\about-company-3.jpg"
     },
     {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\about-company.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-company.jpg"
+    },
+    {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\background-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\background-banner.jpg"
     },
     {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\clients\\client-1.png",
