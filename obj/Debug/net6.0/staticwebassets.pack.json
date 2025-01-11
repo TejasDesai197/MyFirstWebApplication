@@ -61,6 +61,18 @@
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-6.png"
     },
     {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\cybersecurity-services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cybersecurity-services.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\database-management-services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\database-management-services.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\enterprise-applications.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\enterprise-applications.jpg"
+    },
+    {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
@@ -85,8 +97,20 @@
       "PackagePath": "staticwebassets\\assets\\img\\hero-services-img.webp"
     },
     {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\it-managed-services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\it-managed-services.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\it-professional-services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\it-professional-services.jpg"
+    },
+    {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\robotic-process-automation.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotic-process-automation.jpg"
     },
     {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\services.jpg",
@@ -123,6 +147,10 @@
     {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\js\\jquery-1.2.6.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.2.6.min.js"
     },
     {
       "Id": "G:\\Projects\\MyFirstWebApplication\\wwwroot\\assets\\js\\main.js",

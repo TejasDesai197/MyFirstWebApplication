@@ -4,33 +4,33 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - MyFirstWebApplication</title>
-   @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/MyFirstWebApplication.styles.css" asp-append-version="true" />*@
+    <link rel="stylesheet" href="~/MyFirstWebApplication.styles.css" asp-append-version="true" />
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="~/assets/img/favicon.png" rel="icon">
+    <link href="~/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-    <!-- Fonts -->
+    @* <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
+    *@
     <!-- Vendor CSS Files -->
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="~/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Main CSS File -->
     @* <link href="assets/css/main.css" rel="stylesheet">*@
 
     <!-- Custome CSS File -->
-    <link href="assets/css/custome.css" rel="stylesheet">
+    <link href="~/assets/css/custome.css" rel="stylesheet">
 </head>
-<body class="index-page">
+<body>
 
     <header id="header" class="header d-flex align-items-center fixed-top">
         <div class="container-fluid container-xl position-relative d-flex align-items-center">
@@ -41,67 +41,24 @@
             <nav id="navmenu" class="navmenu">
                 <ul>
                     <li><a href="Index" class="active">Home</a></li>
-                    <li><a href="AboutUs">About Us</a></li>                  
-                    <li><a href="Index#services">Services</a></li>                    
+                    <li><a href="AboutUs">About Us</a></li>
+                    <li><a href="Index#services">Services</a></li>
                     <li class="dropdown">
                         <a href="#"><span>Soluations</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
-                            <li class="dropdown">
-                                <a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                                <ul>
-                                    <li><a href="#">Deep Dropdown 1</a></li>
-                                    <li><a href="#">Deep Dropdown 2</a></li>
-                                    <li><a href="#">Deep Dropdown 3</a></li>
-                                    <li><a href="#">Deep Dropdown 4</a></li>
-                                    <li><a href="#">Deep Dropdown 5</a></li>
-                                </ul>
-                            </li>
+                            @*<li class="dropdown">
+                            <a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                            <ul>
+                            <li><a href="#">Deep Dropdown 1</a></li>
+                            <li><a href="#">Deep Dropdown 2</a></li>
+                            <li><a href="#">Deep Dropdown 3</a></li>
+                            <li><a href="#">Deep Dropdown 4</a></li>
+                            <li><a href="#">Deep Dropdown 5</a></li>
+                            </ul>
+                            </li>*@
                             <li>
                                 <a target="_blank" href="https://zenoxerp.com">
-                                    ZenoxERP<br>
-                                    <small>
-                                        Cloud Based Application for Educational Institution
-                                    </small>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="https://zenoxforms.com">
-                                    ZenoxForms<br>
-                                    <small>
-                                        Build &amp; Design online forms, create surveys, quizzes for data collection.
-                                    </small>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="https://znly.in">
-                                    Znly<br>
-                                    <small>
-                                        Create shortened versions of long URLs using&nbsp;API of Znly.
-                                    </small>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="https://zenoxcrm.com">
-                                    ZenoxCRM <br>
-                                    <small>
-                                        Cloud Based Application for Lead and Billing Management
-                                    </small>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="software-for-institute-management.html">
-                                    CMIS Software<br>
-                                    <div>
-                                        Desktop based application for all types of institutes &amp; multiple centres
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="https://chat.messagefunda.com">
-                                    WhatsApp Cloud API<br>
-                                    <small>
-                                        Streamlined integration for seamless communication and collaboration.
-                                    </small>
+                                    ZenoxERP
                                 </a>
                             </li>
                         </ul>
@@ -117,11 +74,7 @@
         </div>
     </header>
 
-    <div>
-        <main class="main">
-            @RenderBody()
-        </main>
-    </div>
+    @RenderBody()
 
     <footer id="footer" class="footer position-relative light-background">
         <div class="container footer-top">
@@ -133,10 +86,10 @@
                             DESAI INFOTECH PRIVATE LIMITED<br>
                             Shankar Pawshe Road,Katemanivali<br>
                             Kalyan Pin-421306,
-                        </p>     
+                        </p>
                         <h4 class="pt-3">Working Hours</h4>
                         <p>
-                            Monday to Friday : 10 a.m. to 6.30 p.m.
+                            Monday to Friday : 10:00 am to 6:30 pm
                         </p>
                     </div>
                     <div class="social-links d-flex mt-4">
@@ -150,10 +103,10 @@
                     <h4>Useful Links</h4>
                     <ul>
                         <li><a href="Index">Home</a></li>
-                        <li><a href="AboutUs">About us</a></li>           
-                        <li><a href="#">Terms of service</a></li>                      
-                        <li><a href="#">Privacy policy</a></li>                        
-                        <li><a href="#">Career</a></li>
+                        <li><a href="AboutUs">About us</a></li>
+                        <li><a href="#">Terms of service</a></li>
+                        <li><a href="#">Privacy policy</a></li>
+                        <li><a href="Career">Career</a></li>
                         <li><a href="Pricing">Pricing</a></li>
                         <li><a href="Contact">Contact</a></li>
                     </ul>
@@ -183,7 +136,7 @@
 
         <div class="container copyright text-center mt-4">
             <p>© <span>Copyright</span> <strong class="px-1 sitename">DESAI INFOTECH PRIVATE LIMITED</strong><span>All Rights Reserved</span></p>
-            <div class="credits">                
+            <div class="credits">
                 Designed by DESAI INFOTECH PRIVATE LIMITED
             </div>
         </div>
@@ -197,13 +150,14 @@
     <div id="preloader"></div>
 
     <!-- Vendor JS Files -->
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-    <script src="assets/vendor/aos/aos.js"></script>
-    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="~/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/vendor/php-email-form/validate.js"></script>
+    <script src="~/assets/vendor/aos/aos.js"></script>
+    <script src="~/assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="~/assets/vendor/swiper/swiper-bundle.min.js"></script>
 
     <!-- Main JS File -->
-    <script src="assets/js/main.js"></script>
+    <script src="~/assets/js/main.js"></script>
+    <script src="~/assets/js/jquery-1.2.6.min.js"></script>
 </body>
 </html>

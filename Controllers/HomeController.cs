@@ -42,6 +42,12 @@ namespace MyFirstWebApplication.Controllers
             return View();
         }
 
+        [Route("Career")]
+        public IActionResult Career()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

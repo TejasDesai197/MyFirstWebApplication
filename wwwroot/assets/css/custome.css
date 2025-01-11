@@ -1352,6 +1352,29 @@ section,
             color: color-mix(in srgb, var(--default-color), transparent 10%);
         }
 
+.services .services-img {
+    border-radius: 10px;
+    height: 100%;
+    padding: 30px;
+    transition: 0.3s;
+    background-size: cover;
+}
+
+    .services .services-img .service-lable {
+        font-size: 26px;
+        color: color-mix(in srgb, var(--heading-color), transparent 25%);
+        border-radius: 10px;
+        position: relative;
+        margin-right: 25px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        font-weight:bold;
+    }
+    .services .services-img:hover .service-lable {
+        color: white;
+    }
 /*--------------------------------------------------------------
 # More Features Section
 --------------------------------------------------------------*/
